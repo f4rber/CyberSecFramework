@@ -1,4 +1,4 @@
-## Framework to make life easier | Created by F4RB3R
+## Framework to make pentester life easier | Created by F4RB3R
 ![Made with Python](https://img.shields.io/badge/Made%20with-Python-3572A5.svg)
 
 ```
